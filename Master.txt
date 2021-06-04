@@ -1,4 +1,4 @@
 
 <Version: 0.01>
-
+/img/pictures/test.png https://raw.githubusercontent.com/Pixel-Paws/Mirror-Updater/main/Meadow.png
 <End of Version>
