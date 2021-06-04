@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-/img/pictures/test.png https://raw.githubusercontent.com/Pixel-Paws/Mirror-Updater/main/Meadow.png
+<Version: 1.02>
+/data/grasstest.png https://raw.githubusercontent.com/Pixel-Paws/Mirror-Updater/main/Meadow.png
 <End of Version>
